@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/gradient1">
+    <target
+        android:name="gradient"
+        android:animation="@drawable/rotate_animation" />
+</animated-vector>

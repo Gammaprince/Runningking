@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622102191849",
+    "project_id": "runningking-54556",
+    "storage_bucket": "runningking-54556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622102191849:android:40ee949b1228d95b669a78",
+        "android_client_info": {
+          "package_name": "com.raees.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622102191849-qb6d8uu817n24hqqpk98b1ju47bv9itt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxaNRS7OMx1HERSI1dOuOEsW_aoo9BnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622102191849-qb6d8uu817n24hqqpk98b1ju47bv9itt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

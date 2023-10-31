@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMSmaliIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_fullsangam.xml" value="0.2" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_games.xml" value="0.19537037037037036" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_home_screen.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_signup.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_splash.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_wallet.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/activity_withdraw.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/arabpati/app/app/src/main/res/layout/header.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/drawable/thumb_selector.xml" value="0.257" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_betting.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_charts.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_crossing.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_deposit_money.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_games.xml" value="0.2" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_home_screen.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_lock_screen.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_wallet.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/activity_webview.xml" value="0.2" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/header.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/played.xml" value="0.29444444444444445" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/coinmatka/app/app/src/main/res/layout/result_layout.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_charts.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_deposit_money.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_earn.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_home_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_main.xml" value="0.3509259259259259" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_notice.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_signup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_starline_games.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_starline_markets.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_starline_timings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/activity_wallet.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/fragment_wallet.xml" value="0.3625" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/market_starline_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/market_timing_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/result_layout.xml" value="0.1" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/mahalaxmi matka/app/src/main/res/layout/transaction.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/button.xml" value="0.3723076923076923" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/green_box.xml" value="0.3769230769230769" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/green_button.xml" value="0.3723076923076923" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/red_box.xml" value="0.3769230769230769" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/shape_square_border.xml" value="0.3769230769230769" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/drawable/small_round_button_border.xml" value="0.3769230769230769" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_betting.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_chart_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_deposit_money.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_feed_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_home_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_home_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_login.xml" value="0.3619791666666667" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_played.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_signup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_singe_bet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_starline_games.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_starline_markets.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_starline_timings.xml" value="0.35260416666666666" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_wallet.xml" value="0.3619791666666667" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/activity_withdraw.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/footer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/fragment_chart.xml" value="0.1" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/fragment_feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/fragment_wallet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/fragment_winner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/market_starline_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/market_time.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/market_timing_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/msg_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/result_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/transaction.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/layout/winner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/dream11_matka/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_charts.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_games.xml" value="0.36102564102564105" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_singe_bet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/header.xml" value="0.20833333333333334" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/result_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/matkahub_new/app/src/main/res/layout/transaction.xml" value="0.36666666666666664" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/newapp/app/src/main/res/drawable/login_card.xml" value="0.2169230769230769" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/newapp/app/src/main/res/layout/activity_deposit_money.xml" value="0.35462962962962963" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/newapp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Thinktank/CodeCanyon/Betting/projects/shivam jodhpur/newapp/app/src/main/res/layout/activity_main.xml" value="0.35462962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.raees.android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+        </intent>
+    </queries>
+
+    <application
+        android:name="com.raees.android.Betplay"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.raees.android.settings"
+            android:exported="false" />
+        <activity
+            android:name="com.raees.android.LockScreen"
+            android:exported="false" />
+        <activity
+            android:name="com.raees.android.starline_games"
+            android:exported="true" />
+        <activity
+            android:name="com.raees.android.starline_timings"
+            android:exported="true" />
+        <activity
+            android:name="com.raees.android.starline_markets"
+            android:exported="true" />
+        <activity
+            android:name="com.raees.android.FeedDetail"
+            android:exported="true" />
+        <activity
+            android:name="com.raees.android.HomeScreen"
+            android:exported="true" />
+        <activity
+            android:name="com.raees.android.wallet"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize">
+
+        </activity>
+        <activity android:name="com.raees.android.withdraw" />
+        <activity android:name="com.raees.android.single_bet" />
+        <activity android:name="com.raees.android.games" />
+        <activity android:name="com.raees.android.deposit_money"
+            android:exported="true">
+
+        </activity>
+        <activity android:name="com.raees.android.webview" />
+        <activity android:name="com.raees.android.chart_menu" />
+        <activity android:name="com.raees.android.charts" />
+        <activity android:name="com.raees.android.crossing" />
+        <activity android:name="com.raees.android.earn" />
+        <activity android:name="com.raees.android.fullsangam" />
+        <activity android:name="com.raees.android.halfsangam" />
+        <activity android:name="com.raees.android.betting" />
+        <activity android:name="com.raees.android.splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.raees.android.ledger" />
+        <activity android:name="com.raees.android.transactions" />
+        <activity android:name="com.raees.android.played" />
+        <activity android:name="com.raees.android.howot" />
+        <activity android:name="com.raees.android.thankyou" />
+        <activity android:name="com.raees.android.bazar" />
+        <activity android:name="com.raees.android.notice" />
+        <activity android:name="com.raees.android.rate" />
+        <activity android:name="com.raees.android.profile" />
+        <activity android:name="com.raees.android.signup" />
+        <activity android:name="com.raees.android.login" />
+        <activity android:name="com.raees.android.MainActivity" />
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/splash1" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
